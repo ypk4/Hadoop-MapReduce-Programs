@@ -6,7 +6,7 @@ Contains the WordCount MapReduce Java program which is there on Apache MapReduce
 On similar lines, I have written MapReduce program for calculating Maximum Temperature of each City.
 The input files should be in the following format :-
 
-city1 temp1
-city2 temp2
-city1 temp3
-city3 temp4
+city1 temp1 \n
+city2 temp2 \n
+city1 temp3 \n
+city3 temp4 \n
